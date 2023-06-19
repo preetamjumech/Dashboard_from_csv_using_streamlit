@@ -1,0 +1,2 @@
+In the following video, I will explain the installation of the 'MyToolBelt' Addin step-by-step:
+https://www.pythonandvba.com/mytoolbelt-installation
